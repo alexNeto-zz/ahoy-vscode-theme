@@ -1,22 +1,31 @@
 {
-    "name": "ahoy-theme",
-    "displayName": "ahoy-theme",
-    "description": "a dark theme for visual studio code",
-    "version": "0.0.1",
-    "publisher": "alexNeto",
-    "engines": {
-        "vscode": "^1.17.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "ahoy theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/ahoy-vscode-theme.json"
-            }
-        ]
-    }
+  "name": "ahoy-theme",
+  "displayName": "Ahoy theme",
+  "description": "a dark theme for visual studio code",
+  "version": "0.0.2",
+  "license": "MIT",
+  "publisher": "alexNeto",
+  "engines": {
+    "vscode": "^1.17.0"
+  },
+  "categories": ["Themes"],
+  "icon": "logo.png",
+  "homepage": "https://github.com/alexNeto/ahoy-vscode-theme",
+  "galleryBanner": {
+    "color": "#1d1c1a",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexNeto/ahoy-vscode-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "ahoy theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ahoy-vscode-theme.json"
+      }
+    ]
+  }
 }

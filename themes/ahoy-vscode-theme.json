@@ -590,7 +590,7 @@
       "scope": ["markup.underline"],
       "settings": {
         "fontStyle": "underline",
-        "foreground": "#f76c6c"
+        "foreground": "#f9efe9"
       }
     },
     {
