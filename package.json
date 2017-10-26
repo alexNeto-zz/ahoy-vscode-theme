@@ -15,7 +15,7 @@
             {
                 "label": "ahoy theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/ahoy theme-color-theme.json"
+                "path": "./themes/ahoy-vscode-theme.json"
             }
         ]
     }
