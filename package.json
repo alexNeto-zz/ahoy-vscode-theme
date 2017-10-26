@@ -2,7 +2,7 @@
   "name": "ahoy-theme",
   "displayName": "Ahoy theme",
   "description": "a dark theme for visual studio code",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "publisher": "alexNeto",
   "engines": {
