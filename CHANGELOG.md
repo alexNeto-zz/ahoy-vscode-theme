@@ -13,3 +13,9 @@ All notable changes to the "ahoy-theme" extension will be documented in this fil
 - add logo image
 - change header color in vscode site
 - add information in package.json
+
+## [0.0.3]
+- change color
+
+## [0.0.4]
+- change string color
